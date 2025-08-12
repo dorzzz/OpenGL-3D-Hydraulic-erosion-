@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(665,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(665,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Graphics.vcxproj -> C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Debug\Graphics.exe

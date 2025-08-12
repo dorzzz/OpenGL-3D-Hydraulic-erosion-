@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(80,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(80,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(219,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(389,9): warning C4101: 'dist': unreferenced local variable
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(387,9): warning C4101: 'j': unreferenced local variable
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(387,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\Graphics\main.cpp(478,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutAddMenuEntry referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutAttachMenu referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "void __cdecl menu(int)" (?menu@@YAXH@Z)
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateMenuWithExit referenced in function glutCreateMenu_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\user\Desktop\פרויקט - גרפיקה ממוחשבת\Using OpenGL\Aircraft with views\Graphics\x64\Debug\Graphics.exe : fatal error LNK1120: 15 unresolved externals
