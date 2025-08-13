@@ -24,3 +24,5 @@ for example after right click should open this pop-up menu with all the options:
 <img width="802" height="832" alt="image" src="https://github.com/user-attachments/assets/9db05fa6-9f40-43d9-9d42-a2d2511c5c1b" />
 
 
+thats pretty much it , try and test it ! 
+
